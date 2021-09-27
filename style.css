@@ -1,0 +1,81 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+}
+
+.box{
+  background-color: rgba(55, 60, 58, 0.4);
+  height: 800px;
+  width: 1140px;
+  margin-left: 400px;
+  border-radius: 20px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  width: 20%;
+}
+
+.text-center{
+  text-align: center;
+  color:rgb(3, 252, 73)
+}
+
+.box2{
+  text-align: center;
+  height: 5%;
+  margin-left: 60px;
+  margin-right: 60px;
+  background-color: rgb(3, 252, 73);
+}
+
+.button{
+  margin-top:9px;
+}
+
+h3{
+  display: inline-block;
+  margin-bottom: 0px;
+  text-align: left;
+  color: white;
+  font-size: 125%;
+}
+
+p{
+  margin-left: 60px;
+  text-align: left;
+  color: white;
+  font-size: 125%;
+}
+
+.checkbox{
+  margin-left: 60px;
+  display: inline-block;
+}
+
+.charge1{
+  width: 500px;
+  background-color:orange;
+  height: 35px;
+  margin-left: 60px;
+  border-radius: 8px;
+}
+
+.charge2{
+  width: 700px;
+  background-color:green;
+  height: 35px;
+  margin-left: 60px;
+  border-radius: 8px;
+}
+
+.charge3{
+  width: 200px;
+  background-color:rgb(158, 19, 19);
+  height: 35px;
+  margin-left: 60px;
+  border-radius: 8px;
+}
